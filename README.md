@@ -1,1 +1,1 @@
-Eotvos-GITegylet
+Eötvös-GITegylet
