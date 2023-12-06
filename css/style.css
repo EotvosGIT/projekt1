@@ -1,10 +1,19 @@
 h2{font-variant: small-caps;
-   color:steelblue;}
+   color:steelblue;
+   text-align: center;}
 
-h1{text-shadow: 10px 10px 10px silver;}
+h2.cim{font-size: 3rem;
+       margin: 20px 0px 20px 10px;
+       text-align: start;}   
+
+h1{text-shadow: 10px 10px 10px silver;
+   font-size: 5rem;}
 
 header{background-image:url(../img/GitHub.png);
        background-size: cover;
        height: 400px;}
 
 .ver{text-align: justify;}       
+
+.card{margin: 20px 10px 20px 10px;
+      float: left;}
