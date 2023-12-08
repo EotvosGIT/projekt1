@@ -26,4 +26,17 @@ article img{width: 10rem;
             display: block;
             margin:auto}  
 
-.cont{margin-left:100px ;}           
+.cont{margin-left:100px ;}    
+
+.clear{clear: both;}
+
+.example{margin: auto;
+         padding: 10px;
+         border-radius: 20px;
+      box-shadow: 10px 10px 10px rgb(41, 40, 41);}
+
+.example p{
+            width: 80%;
+            text-align: justify;
+           }
+
