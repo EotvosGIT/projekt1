@@ -1,1 +1,7 @@
 body{background-color: black;}
+h1{color: aqua;
+   text-align: center;}
+h2{color: aqua;
+   text-align: left;
+   font-family:Georgia, Times, 'Times New Roman', serif;}
+.sugipula{width: 90px;}
