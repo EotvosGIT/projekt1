@@ -4,4 +4,5 @@ body{background-color: black;
 .container{width: 80%;
            padding: 20px;
            background-color: bisque;
-           color:darkgray}     
+           color:rgb(32, 30, 30);
+           margin: auto;}     
