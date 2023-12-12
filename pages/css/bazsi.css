@@ -1,12 +1,32 @@
 table{border-collapse:collapse ;
       border: 2px solid black ;
-      text-align: center;}
+      text-align: center;
+      background-color: silver;
+      color: blue;
+    }
 
 th{border:2px solid black ;
-    text-align: center;}
+    text-align: center;
+   background-color: lightskyblue;}
 
 
 td{border:2px solid black ;
-   text-align: center;}
+   text-align: center;
+   }
 
-img{height: 300px;}
+img{height: 300px; 
+    float: left;}
+
+ul{text-align: center;
+   list-style-type: none;}
+
+li{text-align: center;}
+
+h2{text-align: center;
+   }
+
+.nap{text-align: center;
+     margin-top: 200px;}
+
+h1{text-align: center;}
+
