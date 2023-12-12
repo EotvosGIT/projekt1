@@ -2,7 +2,8 @@ table{border-collapse:collapse ;
       border: 2px solid black ;
       text-align: center;
       background-color: silver;
-      color: blue;}
+      color: blue;
+    }
 
 th{border:2px solid black ;
     text-align: center;
@@ -16,7 +17,8 @@ td{border:2px solid black ;
 img{height: 300px; 
     float: left;}
 
-ul{text-align: center;}
+ul{text-align: center;
+   list-style-type: none;}
 
 li{text-align: center;}
 
