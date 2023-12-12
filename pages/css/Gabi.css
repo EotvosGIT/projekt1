@@ -4,4 +4,27 @@ body{background-color: darkslateblue;
 .container{width: 80%;
            padding: 20px;
            background-color: bisque;
-           color: darkgray;}
+           color: black;
+          border-collapse:collapse;
+           border: 2px solid black;}
+          
+img{height: 300px;
+    float: left;
+    margin-right: 2px;}
+
+table{border-collapse: collapse;
+      border: 2px solid black;
+      text-align: center;
+      background-color: steelblue;
+      color: black;}
+
+td{border: 2px solid black;}
+
+th{border: 2px solid black;}
+
+ul{text-align: center;}
+ 
+h2{text-align: center;}
+
+
+
