@@ -1,0 +1,30 @@
+table{margin: auto;
+      border: 2px solid silver;
+      border-collapse: collapse;
+      text-align: center;
+      font-size: 3rem;}
+ 
+ td, th{padding: 10px;
+    border: 2px solid silver;}     
+
+ th{background-color: burlywood;}  
+ 
+ ul{margin-left: 30px;
+    list-style-type: none;}
+ 
+ li{font-size: 4rem;
+    text-shadow: 10px 10px 15px black;
+    color:rgb(88, 85, 85)}
+
+ .tavol{margin-top: 30px;
+        margin-bottom: 30px;}
+
+ h1{font-size: 5rem;
+    text-shadow: 10px 10px 15px silver;
+    text-align: center;
+    margin-bottom: 100px;}
+
+ .sha{box-shadow: 0px 50px 60px rgb(182 177 177) ;
+      border-radius: 60px;}   
+
+  .lista{background-image: linear-gradient(to right, white, rgb(22, 155, 207));}    
